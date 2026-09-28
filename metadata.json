@@ -1,0 +1,6 @@
+{
+  "name": "Industrial Calibration Management System (ICMS)",
+  "description": "Industrial calibration tracking, equipment management, automated due date alerts, QA/QC audit trails, and Google Sheets report export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
